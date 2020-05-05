@@ -112,3 +112,12 @@ Contact
 =========================================
 	
 For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
+
+=========================================
+# Project Dog Breed Classification
+
+=========================================
+# Dataset- 13000 Images of dogs and humans
+# Used- Transfer Learning, CNN architecture, VGG-16 model to predict the dog breed of test image.
+- If image is human, predicts the closest dog breed
+- Handles the case where image is neither of human nor of dog
